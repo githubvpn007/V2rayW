@@ -45,4 +45,4 @@ v2rayW是windows平台上基于v2ray核心的一款简单UI程序，目前仅支
 
 <br/>
 
-## 如果您对科学上网一知半解 迷迷糊糊，迫切想弄懂各种科学上网的工具 各种协议的区别的话  您可以从这里[开始](https://github.com/githubvpn007/v2rayNvpn)
+## 如果您对科学上网一知半解 迷迷糊糊，迫切想弄懂各种科学上网的工具 各种协议的区别的话  请[点击这里](https://github.com/githubvpn007/v2rayNvpn)
