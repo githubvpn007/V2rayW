@@ -7,7 +7,7 @@ V2rayW、V2rayW下载 、V2rayW配置说明 、V2rayW使用教程
 ----
 v2rayW是windows平台上基于v2ray核心的一款简单UI程序，目前仅支持vmess协议，不支持shadowsocks和socks5。本站详细介绍v2rayW的安装和配置使用步骤，希望能帮到用v2rayW的网友
 
-**提前准备：**
+**提前准备：**  
 1.已有服务端信息，如果您想获取科学上网服务器请点击[这里](https://github.com/githubvpn007/v2rayNvpn#%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB)  
 2.下载V2RayW，未下载的请到这个页面下载：[V2RayW客户端下载](https://github.com/Cenmrev/V2RayW/releases)  
 
