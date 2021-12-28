@@ -20,7 +20,7 @@ v2rayW是windows平台上基于v2ray核心的一款简单UI程序，目前仅支
 1. 安装客户端：找到下载的安装程序，找一个合适的目录解压（不建议放在C盘的”Program Files”文件夹下，会有权限问题）；  
 2. 双击文件夹内的“V2RayW.exe”，程序启动后系统托盘内会出现图标（系统托盘就是桌面右下角，显示时间输入法那块）。如果程序没有反应，托盘下也没有出现图标，请先更新系统并安装 [.NET Framework 4.7.2](https://dotnet.microsoft.com/download/dotnet-framework) 和 [Microsoft Visual C++ 2015 Redistributable (x86)](https://www.microsoft.com/en-us/download/details.aspx?id=53840)。
   
-![](https://github.com/githubvpn007/v2rayNvpn/blob/main/images/V2rayW/v2rayw-1.png)
+![](https://i.postimg.cc/t467sVJC/v2rayw-1.png)
   
   
 3.右键系统托盘的**V2RayW图标**，点击“配置”。在配置窗口点击“增加”，然后在右侧“服务器信息”中填入**服务器的ip**、**端口**、**用户id**和**额外id**(注：有些小白可能不知道哪里获得这些信息，这些信息是在您购买了**付费代理**后代理商会给到您的信息，如果您不知道在哪里购买的话 请看[这里](https://github.com/githubvpn007/v2rayNvpn#%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB))  
@@ -28,13 +28,13 @@ v2rayW是windows平台上基于v2ray核心的一款简单UI程序，目前仅支
 
 如果使用伪装等高级技巧（没用就不用管！），点击“传输设置”，在里面配置websocket的域名、路径信息，以及配置tls一栏（勾选allowinscure等两个框）。配置好后，点击”保存“：  
 
-![](https://github.com/githubvpn007/v2rayNvpn/blob/main/images/V2rayW/v2rayw-2.png)  
+![](https://i.postimg.cc/s2Rx7DGP/v2rayw-2.png)  
 
 使用中遇到问题，请把日志等级选“info”，方便查看日志。  
 
 
 4.右键托盘图标，点击“加载v2ray”，建议勾选“自动模式（pac）”：  
-![](https://github.com/githubvpn007/v2rayNvpn/blob/main/images/V2rayW/v2rayw-3.png)  
+![](https://i.postimg.cc/W463nL0B/v2rayw-3.png)  
 
 
 5.如果没有特殊需求，一般不建议改动”V2ray内部路由规则”和“PAC列表”的信息；如果你知道具体用途，可按需更改。
